@@ -5,6 +5,7 @@ Este trabajo se basa en estudiar el manejo de callbacks y de funciones lambda en
 
 ## Primera Parte. Callbacks en Python.
 **Archivo: DataManager.py**
+
 Este archivo contiene a la clase "RealTimeDataManager", la cual se compone por tres funciones:
 
 *__ init __*:
@@ -22,7 +23,10 @@ Además, se encuentra otra función:
 Este es un método callback, el cual imprime los datos actualizados en tiempo real.
 
 
+
+
 **Archivo: Events.py**
+
 Este archivo contiene a la clase "EventManager", la cual se compone por cuatro funciones:
 
 *__ init __*:
@@ -55,8 +59,9 @@ Por último, se imprime el resultado de la operación deseada.
 *main*:
 En este método se define un diccionario llamado "operations" con funciones lambda que realizan las operaciones de suma, resta, multiplicación y división.
 Se tiene bucle infinito que solicita de neuvo al usuario los números y la operación que desee, hasta que este usuario elija salir del programa.
-Para saber si el usuario desea salir se verifica que haya ingresado "exit", así se pone fin al programa.
+Para saber si el usuario desea salir se verifica que haya ingresado ´exit´, así se pone fin al programa.
 En caso de que el usuario eligiera no salir e ingresara una operación, se llamaría a la función "ejecutar_operacion" para realizar la operación e imprimir el resultado.
 
 
 ## Resultados
+
