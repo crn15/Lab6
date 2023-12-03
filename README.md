@@ -64,7 +64,10 @@ En caso de que el usuario eligiera no salir e ingresara una operación, se llama
 
 
 ## Resultados
+![Figura1. Muestra de resultados de la calculadora.](Lab6/1.png)
+![Figura2. Muestra de resultados de la calculadora.](Lab6/2.png)
+![Figura3. Muestra de resultados de callbacks.](Lab6/3.png)
 
 <image src="/Lab6/1.png" alt="Figura1. Muestra de resultados de la calculadora.">
-<image src="/Lab6/1.png" alt="Figura2. Muestra de resultados de la calculadora.">
-<image src="/Lab6/1.png" alt="Figura3. Muestra de resultados de callbacks.">
+<image src="/Lab6/2.png" alt="Figura2. Muestra de resultados de la calculadora.">
+<image src="/Lab6/3.png" alt="Figura3. Muestra de resultados de callbacks.">
