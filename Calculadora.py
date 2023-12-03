@@ -10,7 +10,7 @@ def get_user_input():
     
     except ValueError:
         # Excepción en caso de que el usuario ingrese algo que no sea un número.
-        print("Input invalido. Por favor ingrese numeros.")
+        print("Input invalido. Por favor ingrese numeros.\n")
         return get_user_input() # Se solicita al usuario que digíte de nuevo los números.
 
 def ejecutar_operacion(user_input, operations):
@@ -21,10 +21,10 @@ def ejecutar_operacion(user_input, operations):
         result = operations[operation](num1, num2)
         
     else:
-        result = "Operacion invalida"
+        result = "Operacion invalida.\n"
     
     # Imprime resultado.
-    print("Resultado:", result)
+    print("Resultado:", result, "\n")
 
 def main():
     # Se usa lambda para definir un diccionario de operaciones.
@@ -42,7 +42,7 @@ def main():
 
         # Condicional que verifica si elusuario desea salir.
         if user_input[2].lower() == 'exit':
-            print("Salir.")
+            print("Salir.\n")
             break
 
         # Ejecutar operación e imprimir resultado.
