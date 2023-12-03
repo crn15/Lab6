@@ -65,8 +65,8 @@ En caso de que el usuario eligiera no salir e ingresara una operación, se llama
 
 ## Resultados
 
-<image src="https://github.com/crn15/Lab6/raw/main/Lab6/1.png" alt="Figura1. Muestra de resultados de la calculadora.">
+<image src="https://github.com/crn15/Lab6/raw/main/1.png" alt="Figura1. Muestra de resultados de la calculadora.">
 
-<image src="/Lab6/2.png" alt="Figura2. Muestra de resultados de la calculadora.">
+<image src="https://github.com/crn15/Lab6/raw/main/2.png" alt="Figura2. Muestra de resultados de la calculadora.">
 
-<image src="/Lab6/3.png" alt="Figura3. Muestra de resultados de callbacks.">
+<image src="https://github.com/crn15/Lab6/raw/main/3.png" alt="Figura3. Muestra de resultados de callbacks.">
