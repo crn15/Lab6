@@ -59,9 +59,12 @@ Por último, se imprime el resultado de la operación deseada.
 *main*:
 En este método se define un diccionario llamado "operations" con funciones lambda que realizan las operaciones de suma, resta, multiplicación y división.
 Se tiene bucle infinito que solicita de neuvo al usuario los números y la operación que desee, hasta que este usuario elija salir del programa.
-Para saber si el usuario desea salir se verifica que haya ingresado ´exit´, así se pone fin al programa.
+Para saber si el usuario desea salir se verifica que haya ingresado "exit", así se pone fin al programa.
 En caso de que el usuario eligiera no salir e ingresara una operación, se llamaría a la función "ejecutar_operacion" para realizar la operación e imprimir el resultado.
 
 
 ## Resultados
 
+<image src="/Lab6/1.png" alt="Figura1. Muestra de resultados de la calculadora.">
+<image src="/Lab6/1.png" alt="Figura2. Muestra de resultados de la calculadora.">
+<image src="/Lab6/1.png" alt="Figura3. Muestra de resultados de callbacks.">
