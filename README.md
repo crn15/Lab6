@@ -65,8 +65,12 @@ En caso de que el usuario eligiera no salir e ingresara una operación, se llama
 
 ## Resultados
 
+Estos son los resultados del código del archivo Calculadora.py:
+
 <image src="https://github.com/crn15/Lab6/raw/main/1.png" alt="Figura1. Muestra de resultados de la calculadora.">
 
 <image src="https://github.com/crn15/Lab6/raw/main/2.png" alt="Figura2. Muestra de resultados de la calculadora.">
+
+Estos son los resultados del código de los archivos DataManager.py y Events.py:
 
 <image src="https://github.com/crn15/Lab6/raw/main/3.png" alt="Figura3. Muestra de resultados de callbacks.">
